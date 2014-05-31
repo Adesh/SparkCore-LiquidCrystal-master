@@ -1,8 +1,8 @@
 {
-  "name": "neopixel",
+  "name": "LiquidCrystal",
   "author": "Adafruit, Technobly",
   "license": "GNU GPLv3",
   "version": "0.0.3",
-  "description": "An Implementation of Adafruit's NeoPixel Library for the Spark Core",
-  "namespace": "Adafruit_NeoPixel"
+  "description": "LiquidCrystal on Spark Core",
+  "namespace": "LiquidCrystal"
 }
